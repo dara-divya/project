@@ -11,5 +11,9 @@ someone
 divya
 am
 pragati
+someone
+divya
+am
+truth
 
 
